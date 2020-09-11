@@ -1,0 +1,181 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\shyro\Desktop\shyroneeunit2- - Copy\app\src\main\AndroidManifest.xml:2:1-24:12
+INJECTED from C:\Users\shyro\Desktop\shyroneeunit2- - Copy\app\src\main\AndroidManifest.xml:2:1-24:12
+INJECTED from C:\Users\shyro\Desktop\shyroneeunit2- - Copy\app\src\main\AndroidManifest.xml:2:1-24:12
+INJECTED from C:\Users\shyro\Desktop\shyroneeunit2- - Copy\app\src\main\AndroidManifest.xml:2:1-24:12
+MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\shyro\.gradle\caches\transforms-1\files-1.1\appcompat-v7-28.0.0.aar\7ad74238cbf0b112df9d38abcfba919f\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\shyro\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\97d25e92d629aced61008b7fa6a85450\AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:recyclerview-v7:28.0.0] C:\Users\shyro\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-28.0.0.aar\a30dedceb4eedc6ce940cfc8836c0f48\AndroidManifest.xml:17:1-22:12
+MERGED from [jp.wasabeef:glide-transformations:3.3.0] C:\Users\shyro\.gradle\caches\transforms-1\files-1.1\glide-transformations-3.3.0.aar\e3b9ea20ba5be89cf0d2d2c0157d5491\AndroidManifest.xml:2:1-11:12
+MERGED from [com.github.bumptech.glide:glide:4.7.1] C:\Users\shyro\.gradle\caches\transforms-1\files-1.1\glide-4.7.1.aar\7fbd51f588d4b8ced0ef1a4d072ccc04\AndroidManifest.xml:2:1-13:12
+MERGED from [jp.co.cyberagent.android.gpuimage:gpuimage-library:1.4.1] C:\Users\shyro\.gradle\caches\transforms-1\files-1.1\gpuimage-library-1.4.1.aar\dd98e872c4d6b28f5b4b9b254b85da4c\AndroidManifest.xml:2:1-12:12
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\shyro\.gradle\caches\transforms-1\files-1.1\support-fragment-28.0.0.aar\0d6cce36b60c52ec9080d7b3a13e1ff8\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\shyro\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-28.0.0.aar\899cf3e85ab95618a9f6dc09f4de6105\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\shyro\.gradle\caches\transforms-1\files-1.1\support-core-ui-28.0.0.aar\ed3aaf9a00af3d2ec65ad87ba44405c0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\shyro\.gradle\caches\transforms-1\files-1.1\support-core-utils-28.0.0.aar\b7130f65e91e9e26b7191c5dc75132b9\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\shyro\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-28.0.0.aar\56680b7490ab9969014a243d0d309547\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:loader:28.0.0] C:\Users\shyro\.gradle\caches\transforms-1\files-1.1\loader-28.0.0.aar\bf7fba603a33f2217179eff595f9fce1\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\shyro\.gradle\caches\transforms-1\files-1.1\viewpager-28.0.0.aar\efd461217200c1b7a47a3f78c71654e3\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\shyro\.gradle\caches\transforms-1\files-1.1\coordinatorlayout-28.0.0.aar\2a69576fa90fc88c8cd5d6494b1511cf\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\shyro\.gradle\caches\transforms-1\files-1.1\drawerlayout-28.0.0.aar\7eaa1feb3f825cb06ce3a625f69f0f01\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\shyro\.gradle\caches\transforms-1\files-1.1\slidingpanelayout-28.0.0.aar\51a955acc3ca07a209024cd99569bff8\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:customview:28.0.0] C:\Users\shyro\.gradle\caches\transforms-1\files-1.1\customview-28.0.0.aar\fa0068e4d1b9feef5ff570ebc8e09fbf\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\shyro\.gradle\caches\transforms-1\files-1.1\swiperefreshlayout-28.0.0.aar\3fe93da6a9f70baff0b43f6b832ca3f0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\shyro\.gradle\caches\transforms-1\files-1.1\asynclayoutinflater-28.0.0.aar\07d4189c7304f90d9a5ecfbfb2cc144f\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\shyro\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\4362e9340dcd1343c538c8374317ea6d\AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\shyro\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0.aar\f55216eaef46ed9a5d02826cf3248703\AndroidManifest.xml:17:1-25:12
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\shyro\.gradle\caches\transforms-1\files-1.1\cursoradapter-28.0.0.aar\841cc4ce721cb5a6b91a0d2416bf1c90\AndroidManifest.xml:17:1-22:12
+MERGED from [com.github.bumptech.glide:gifdecoder:4.7.1] C:\Users\shyro\.gradle\caches\transforms-1\files-1.1\gifdecoder-4.7.1.aar\22b1c41f23cea91a06edfcba7989644a\AndroidManifest.xml:2:1-11:12
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\shyro\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\4da7b65266c158ca1336e830b1edade1\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\shyro\.gradle\caches\transforms-1\files-1.1\documentfile-28.0.0.aar\68bfdf61e2d86ef39592a2482578e4a1\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\shyro\.gradle\caches\transforms-1\files-1.1\localbroadcastmanager-28.0.0.aar\890985b2f996e2458cf1f0923773ab89\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:print:28.0.0] C:\Users\shyro\.gradle\caches\transforms-1\files-1.1\print-28.0.0.aar\3828fb5ce387f72574c5eca5ef8faf7c\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\shyro\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.1.aar\9f98b11560606e84fe8b4e59bf03eb5a\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\shyro\.gradle\caches\transforms-1\files-1.1\interpolator-28.0.0.aar\c1b5001665d31ecc722656f8ebbdb54b\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\shyro\.gradle\caches\transforms-1\files-1.1\livedata-1.1.1.aar\c3b5091fd22fb81718eab09b1cc2a992\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\shyro\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.1.aar\ff8b0c5f9409d812944684a61daf748b\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\shyro\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\1345570daba2527bbcd4a3e26c4faee6\AndroidManifest.xml:17:1-22:12
+INJECTED from C:\Users\shyro\Desktop\shyroneeunit2- - Copy\app\src\main\AndroidManifest.xml:2:1-24:12
+INJECTED from C:\Users\shyro\Desktop\shyroneeunit2- - Copy\app\src\main\AndroidManifest.xml:2:1-24:12
+INJECTED from C:\Users\shyro\Desktop\shyroneeunit2- - Copy\app\src\main\AndroidManifest.xml:2:1-24:12
+	package
+		ADDED from C:\Users\shyro\Desktop\shyroneeunit2- - Copy\app\src\main\AndroidManifest.xml:3:5-36
+		INJECTED from C:\Users\shyro\Desktop\shyroneeunit2- - Copy\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\shyro\Desktop\shyroneeunit2- - Copy\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\shyro\Desktop\shyroneeunit2- - Copy\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\shyro\Desktop\shyroneeunit2- - Copy\app\src\main\AndroidManifest.xml:2:1-24:12
+		INJECTED from C:\Users\shyro\Desktop\shyroneeunit2- - Copy\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from C:\Users\shyro\Desktop\shyroneeunit2- - Copy\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\shyro\Desktop\shyroneeunit2- - Copy\app\src\main\AndroidManifest.xml:2:1-24:12
+		INJECTED from C:\Users\shyro\Desktop\shyroneeunit2- - Copy\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\shyro\Desktop\shyroneeunit2- - Copy\app\src\main\AndroidManifest.xml:2:11-69
+uses-permission#android.permission.INTERNET
+ADDED from C:\Users\shyro\Desktop\shyroneeunit2- - Copy\app\src\main\AndroidManifest.xml:5:5-67
+	android:name
+		ADDED from C:\Users\shyro\Desktop\shyroneeunit2- - Copy\app\src\main\AndroidManifest.xml:5:22-64
+application
+ADDED from C:\Users\shyro\Desktop\shyroneeunit2- - Copy\app\src\main\AndroidManifest.xml:7:5-22:19
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\shyro\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\97d25e92d629aced61008b7fa6a85450\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\shyro\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\97d25e92d629aced61008b7fa6a85450\AndroidManifest.xml:9:5-20
+MERGED from [com.github.bumptech.glide:glide:4.7.1] C:\Users\shyro\.gradle\caches\transforms-1\files-1.1\glide-4.7.1.aar\7fbd51f588d4b8ced0ef1a4d072ccc04\AndroidManifest.xml:11:5-20
+MERGED from [com.github.bumptech.glide:glide:4.7.1] C:\Users\shyro\.gradle\caches\transforms-1\files-1.1\glide-4.7.1.aar\7fbd51f588d4b8ced0ef1a4d072ccc04\AndroidManifest.xml:11:5-20
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\shyro\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\4362e9340dcd1343c538c8374317ea6d\AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\shyro\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\4362e9340dcd1343c538c8374317ea6d\AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\shyro\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0.aar\f55216eaef46ed9a5d02826cf3248703\AndroidManifest.xml:22:5-23:19
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\shyro\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0.aar\f55216eaef46ed9a5d02826cf3248703\AndroidManifest.xml:22:5-23:19
+MERGED from [com.github.bumptech.glide:gifdecoder:4.7.1] C:\Users\shyro\.gradle\caches\transforms-1\files-1.1\gifdecoder-4.7.1.aar\22b1c41f23cea91a06edfcba7989644a\AndroidManifest.xml:9:5-20
+MERGED from [com.github.bumptech.glide:gifdecoder:4.7.1] C:\Users\shyro\.gradle\caches\transforms-1\files-1.1\gifdecoder-4.7.1.aar\22b1c41f23cea91a06edfcba7989644a\AndroidManifest.xml:9:5-20
+	android:appComponentFactory
+		ADDED from [com.android.support:support-compat:28.0.0] C:\Users\shyro\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\4362e9340dcd1343c538c8374317ea6d\AndroidManifest.xml:22:18-91
+	android:supportsRtl
+		ADDED from C:\Users\shyro\Desktop\shyroneeunit2- - Copy\app\src\main\AndroidManifest.xml:12:9-35
+	android:label
+		ADDED from C:\Users\shyro\Desktop\shyroneeunit2- - Copy\app\src\main\AndroidManifest.xml:10:9-41
+	android:roundIcon
+		ADDED from C:\Users\shyro\Desktop\shyroneeunit2- - Copy\app\src\main\AndroidManifest.xml:11:9-54
+	android:icon
+		ADDED from C:\Users\shyro\Desktop\shyroneeunit2- - Copy\app\src\main\AndroidManifest.xml:9:9-43
+	android:allowBackup
+		ADDED from C:\Users\shyro\Desktop\shyroneeunit2- - Copy\app\src\main\AndroidManifest.xml:8:9-35
+	android:theme
+		ADDED from C:\Users\shyro\Desktop\shyroneeunit2- - Copy\app\src\main\AndroidManifest.xml:13:9-40
+activity#com.example.flickster.DetailActivity
+ADDED from C:\Users\shyro\Desktop\shyroneeunit2- - Copy\app\src\main\AndroidManifest.xml:14:9-61
+	android:name
+		ADDED from C:\Users\shyro\Desktop\shyroneeunit2- - Copy\app\src\main\AndroidManifest.xml:14:19-49
+activity#com.example.flickster.MainActivity
+ADDED from C:\Users\shyro\Desktop\shyroneeunit2- - Copy\app\src\main\AndroidManifest.xml:15:9-21:20
+	android:name
+		ADDED from C:\Users\shyro\Desktop\shyroneeunit2- - Copy\app\src\main\AndroidManifest.xml:15:19-47
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\Users\shyro\Desktop\shyroneeunit2- - Copy\app\src\main\AndroidManifest.xml:16:13-20:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\shyro\Desktop\shyroneeunit2- - Copy\app\src\main\AndroidManifest.xml:17:17-69
+	android:name
+		ADDED from C:\Users\shyro\Desktop\shyroneeunit2- - Copy\app\src\main\AndroidManifest.xml:17:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\shyro\Desktop\shyroneeunit2- - Copy\app\src\main\AndroidManifest.xml:19:17-77
+	android:name
+		ADDED from C:\Users\shyro\Desktop\shyroneeunit2- - Copy\app\src\main\AndroidManifest.xml:19:27-74
+uses-sdk
+INJECTED from C:\Users\shyro\Desktop\shyroneeunit2- - Copy\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\shyro\Desktop\shyroneeunit2- - Copy\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\shyro\Desktop\shyroneeunit2- - Copy\app\src\main\AndroidManifest.xml
+MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\shyro\.gradle\caches\transforms-1\files-1.1\appcompat-v7-28.0.0.aar\7ad74238cbf0b112df9d38abcfba919f\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\shyro\.gradle\caches\transforms-1\files-1.1\appcompat-v7-28.0.0.aar\7ad74238cbf0b112df9d38abcfba919f\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\shyro\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\97d25e92d629aced61008b7fa6a85450\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\shyro\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\97d25e92d629aced61008b7fa6a85450\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:recyclerview-v7:28.0.0] C:\Users\shyro\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-28.0.0.aar\a30dedceb4eedc6ce940cfc8836c0f48\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:28.0.0] C:\Users\shyro\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-28.0.0.aar\a30dedceb4eedc6ce940cfc8836c0f48\AndroidManifest.xml:20:5-44
+MERGED from [jp.wasabeef:glide-transformations:3.3.0] C:\Users\shyro\.gradle\caches\transforms-1\files-1.1\glide-transformations-3.3.0.aar\e3b9ea20ba5be89cf0d2d2c0157d5491\AndroidManifest.xml:7:5-9:41
+MERGED from [jp.wasabeef:glide-transformations:3.3.0] C:\Users\shyro\.gradle\caches\transforms-1\files-1.1\glide-transformations-3.3.0.aar\e3b9ea20ba5be89cf0d2d2c0157d5491\AndroidManifest.xml:7:5-9:41
+MERGED from [com.github.bumptech.glide:glide:4.7.1] C:\Users\shyro\.gradle\caches\transforms-1\files-1.1\glide-4.7.1.aar\7fbd51f588d4b8ced0ef1a4d072ccc04\AndroidManifest.xml:7:5-9:41
+MERGED from [com.github.bumptech.glide:glide:4.7.1] C:\Users\shyro\.gradle\caches\transforms-1\files-1.1\glide-4.7.1.aar\7fbd51f588d4b8ced0ef1a4d072ccc04\AndroidManifest.xml:7:5-9:41
+MERGED from [jp.co.cyberagent.android.gpuimage:gpuimage-library:1.4.1] C:\Users\shyro\.gradle\caches\transforms-1\files-1.1\gpuimage-library-1.4.1.aar\dd98e872c4d6b28f5b4b9b254b85da4c\AndroidManifest.xml:8:5-10:41
+MERGED from [jp.co.cyberagent.android.gpuimage:gpuimage-library:1.4.1] C:\Users\shyro\.gradle\caches\transforms-1\files-1.1\gpuimage-library-1.4.1.aar\dd98e872c4d6b28f5b4b9b254b85da4c\AndroidManifest.xml:8:5-10:41
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\shyro\.gradle\caches\transforms-1\files-1.1\support-fragment-28.0.0.aar\0d6cce36b60c52ec9080d7b3a13e1ff8\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\shyro\.gradle\caches\transforms-1\files-1.1\support-fragment-28.0.0.aar\0d6cce36b60c52ec9080d7b3a13e1ff8\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\shyro\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-28.0.0.aar\899cf3e85ab95618a9f6dc09f4de6105\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\shyro\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-28.0.0.aar\899cf3e85ab95618a9f6dc09f4de6105\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\shyro\.gradle\caches\transforms-1\files-1.1\support-core-ui-28.0.0.aar\ed3aaf9a00af3d2ec65ad87ba44405c0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\shyro\.gradle\caches\transforms-1\files-1.1\support-core-ui-28.0.0.aar\ed3aaf9a00af3d2ec65ad87ba44405c0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\shyro\.gradle\caches\transforms-1\files-1.1\support-core-utils-28.0.0.aar\b7130f65e91e9e26b7191c5dc75132b9\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\shyro\.gradle\caches\transforms-1\files-1.1\support-core-utils-28.0.0.aar\b7130f65e91e9e26b7191c5dc75132b9\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\shyro\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-28.0.0.aar\56680b7490ab9969014a243d0d309547\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\shyro\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-28.0.0.aar\56680b7490ab9969014a243d0d309547\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] C:\Users\shyro\.gradle\caches\transforms-1\files-1.1\loader-28.0.0.aar\bf7fba603a33f2217179eff595f9fce1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] C:\Users\shyro\.gradle\caches\transforms-1\files-1.1\loader-28.0.0.aar\bf7fba603a33f2217179eff595f9fce1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\shyro\.gradle\caches\transforms-1\files-1.1\viewpager-28.0.0.aar\efd461217200c1b7a47a3f78c71654e3\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\shyro\.gradle\caches\transforms-1\files-1.1\viewpager-28.0.0.aar\efd461217200c1b7a47a3f78c71654e3\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\shyro\.gradle\caches\transforms-1\files-1.1\coordinatorlayout-28.0.0.aar\2a69576fa90fc88c8cd5d6494b1511cf\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\shyro\.gradle\caches\transforms-1\files-1.1\coordinatorlayout-28.0.0.aar\2a69576fa90fc88c8cd5d6494b1511cf\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\shyro\.gradle\caches\transforms-1\files-1.1\drawerlayout-28.0.0.aar\7eaa1feb3f825cb06ce3a625f69f0f01\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\shyro\.gradle\caches\transforms-1\files-1.1\drawerlayout-28.0.0.aar\7eaa1feb3f825cb06ce3a625f69f0f01\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\shyro\.gradle\caches\transforms-1\files-1.1\slidingpanelayout-28.0.0.aar\51a955acc3ca07a209024cd99569bff8\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\shyro\.gradle\caches\transforms-1\files-1.1\slidingpanelayout-28.0.0.aar\51a955acc3ca07a209024cd99569bff8\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] C:\Users\shyro\.gradle\caches\transforms-1\files-1.1\customview-28.0.0.aar\fa0068e4d1b9feef5ff570ebc8e09fbf\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] C:\Users\shyro\.gradle\caches\transforms-1\files-1.1\customview-28.0.0.aar\fa0068e4d1b9feef5ff570ebc8e09fbf\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\shyro\.gradle\caches\transforms-1\files-1.1\swiperefreshlayout-28.0.0.aar\3fe93da6a9f70baff0b43f6b832ca3f0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\shyro\.gradle\caches\transforms-1\files-1.1\swiperefreshlayout-28.0.0.aar\3fe93da6a9f70baff0b43f6b832ca3f0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\shyro\.gradle\caches\transforms-1\files-1.1\asynclayoutinflater-28.0.0.aar\07d4189c7304f90d9a5ecfbfb2cc144f\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\shyro\.gradle\caches\transforms-1\files-1.1\asynclayoutinflater-28.0.0.aar\07d4189c7304f90d9a5ecfbfb2cc144f\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\shyro\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\4362e9340dcd1343c538c8374317ea6d\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\shyro\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\4362e9340dcd1343c538c8374317ea6d\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\shyro\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0.aar\f55216eaef46ed9a5d02826cf3248703\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\shyro\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0.aar\f55216eaef46ed9a5d02826cf3248703\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\shyro\.gradle\caches\transforms-1\files-1.1\cursoradapter-28.0.0.aar\841cc4ce721cb5a6b91a0d2416bf1c90\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\shyro\.gradle\caches\transforms-1\files-1.1\cursoradapter-28.0.0.aar\841cc4ce721cb5a6b91a0d2416bf1c90\AndroidManifest.xml:20:5-44
+MERGED from [com.github.bumptech.glide:gifdecoder:4.7.1] C:\Users\shyro\.gradle\caches\transforms-1\files-1.1\gifdecoder-4.7.1.aar\22b1c41f23cea91a06edfcba7989644a\AndroidManifest.xml:5:5-7:41
+MERGED from [com.github.bumptech.glide:gifdecoder:4.7.1] C:\Users\shyro\.gradle\caches\transforms-1\files-1.1\gifdecoder-4.7.1.aar\22b1c41f23cea91a06edfcba7989644a\AndroidManifest.xml:5:5-7:41
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\shyro\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\4da7b65266c158ca1336e830b1edade1\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\shyro\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\4da7b65266c158ca1336e830b1edade1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\shyro\.gradle\caches\transforms-1\files-1.1\documentfile-28.0.0.aar\68bfdf61e2d86ef39592a2482578e4a1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\shyro\.gradle\caches\transforms-1\files-1.1\documentfile-28.0.0.aar\68bfdf61e2d86ef39592a2482578e4a1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\shyro\.gradle\caches\transforms-1\files-1.1\localbroadcastmanager-28.0.0.aar\890985b2f996e2458cf1f0923773ab89\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\shyro\.gradle\caches\transforms-1\files-1.1\localbroadcastmanager-28.0.0.aar\890985b2f996e2458cf1f0923773ab89\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] C:\Users\shyro\.gradle\caches\transforms-1\files-1.1\print-28.0.0.aar\3828fb5ce387f72574c5eca5ef8faf7c\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] C:\Users\shyro\.gradle\caches\transforms-1\files-1.1\print-28.0.0.aar\3828fb5ce387f72574c5eca5ef8faf7c\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\shyro\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.1.aar\9f98b11560606e84fe8b4e59bf03eb5a\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\shyro\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.1.aar\9f98b11560606e84fe8b4e59bf03eb5a\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\shyro\.gradle\caches\transforms-1\files-1.1\interpolator-28.0.0.aar\c1b5001665d31ecc722656f8ebbdb54b\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\shyro\.gradle\caches\transforms-1\files-1.1\interpolator-28.0.0.aar\c1b5001665d31ecc722656f8ebbdb54b\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\shyro\.gradle\caches\transforms-1\files-1.1\livedata-1.1.1.aar\c3b5091fd22fb81718eab09b1cc2a992\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\shyro\.gradle\caches\transforms-1\files-1.1\livedata-1.1.1.aar\c3b5091fd22fb81718eab09b1cc2a992\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\shyro\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.1.aar\ff8b0c5f9409d812944684a61daf748b\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\shyro\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.1.aar\ff8b0c5f9409d812944684a61daf748b\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\shyro\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\1345570daba2527bbcd4a3e26c4faee6\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\shyro\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\1345570daba2527bbcd4a3e26c4faee6\AndroidManifest.xml:20:5-44
+INJECTED from C:\Users\shyro\Desktop\shyroneeunit2- - Copy\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\shyro\Desktop\shyroneeunit2- - Copy\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from C:\Users\shyro\Desktop\shyroneeunit2- - Copy\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\shyro\Desktop\shyroneeunit2- - Copy\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\shyro\Desktop\shyroneeunit2- - Copy\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\shyro\Desktop\shyroneeunit2- - Copy\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\shyro\Desktop\shyroneeunit2- - Copy\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\shyro\Desktop\shyroneeunit2- - Copy\app\src\main\AndroidManifest.xml
